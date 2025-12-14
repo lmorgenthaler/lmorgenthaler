@@ -9,7 +9,12 @@ I currently work as a Data Engineer and am interested in machine learning, AI, s
 
 ## 💻 Selected Projects
 - **Visually Basic Compiler** – JVM-targeting compiler with semantic analysis and code generation
-- **Networks Chatroom** – Multi-client chat application with a custom binary protocol  
+- **Networks Chatroom** – Multi-client chat application with a custom binary protocol
+
+## 🎓 Academic Portfolio Reflections
+As part of my Computer Science program at Westminster University, I have prepared summaries connecting selected projects to program and university-wide learning goals.
+
+📄 [View Project Reflections](reflections/README.md)
 
 This profile serves as a portfolio of selected academic and personal projects demonstrating my technical skills and growth as a computer scientist.
 
