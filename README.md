@@ -5,7 +5,7 @@ I currently work as a Data Engineer and am interested in machine learning, AI, s
 
 ## 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/lauren-morgenthaler
-- Resume: [View Resume](resume/Lauren_Morgenthaler_Resume.pdf)
+- Resume: [View Resume](lauren_morgenthaler_resume.pdf)
 
 ## 💻 Selected Projects
 - **Visually Basic Compiler** – JVM-targeting compiler with semantic analysis and code generation
