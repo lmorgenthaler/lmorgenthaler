@@ -1,6 +1,6 @@
 # Lauren Morgenthaler
 
-Hi there 👋!  I’m a graduate of Westminster University with a B.S. in Computer Science with a minor in Mathematics.  
+Hi there 👋!  I’m a graduate of Westminster University with a B.S. in Computer Science and a minor in Mathematics.  
 I currently work as a Data Engineer and am interested in machine learning, AI, systems programming and building robust, scalable software.
 
 ## 🔗 Links
