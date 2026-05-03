@@ -4,7 +4,7 @@ Hi there 👋!  I’m a graduate of Westminster University with a B.S. in Comput
 I currently work as a Data Engineer and am interested in machine learning, AI, systems programming and building robust, scalable software.
 
 ## 🔗 Links
-- LinkedIn: https://www.linkedin.com/in/lauren-morgenthaler
+- LinkedIn: https://www.linkedin.com/in/laurenmorgenthaler
 - Resume: [View Resume](lauren_morgenthaler_resume.pdf)
 
 ## 💻 Selected Projects
