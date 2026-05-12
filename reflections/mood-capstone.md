@@ -16,7 +16,7 @@
      line auto-renders as a playable video on the rendered README page.
 -->
 
-<!-- PASTE GITHUB-ATTACHMENT VIDEO URL HERE -->
+[<!-- PASTE GITHUB-ATTACHMENT VIDEO URL HERE -->](https://github.com/user-attachments/assets/5b48abcb-d319-49ac-9703-5156de49c47a)
 
 ## Reflective Summary
 
