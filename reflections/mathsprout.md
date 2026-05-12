@@ -1,6 +1,7 @@
 # MathSprout
 
-**Course:** CMPT 322 — Software Engineering
+**Course:** CMPT 322 — Software Engineering  
+**Repository:** https://github.com/lmorgenthaler/mathsprout
 
 ## Reflective Summary
 
