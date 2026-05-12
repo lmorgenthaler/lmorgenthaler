@@ -1,6 +1,7 @@
 # Fashion Recommendation Engine
 
-**Course:** CMPT 311 — Machine Learning
+**Course:** CMPT 311 — Machine Learning  
+**Repository:** https://github.com/lmorgenthaler/mood-recommendation
 
 ## Reflective Summary
 
