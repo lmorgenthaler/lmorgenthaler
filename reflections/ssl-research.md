@@ -1,8 +1,8 @@
 # Scalable Kernel Semi-Supervised Learning Research
 
-**Course:** CMPT 401 — Spectral Graph Theory and Optimization
-**Showcase:** Westminster Student Showcase, May 2026
-**Poster:** research-poster.pdf
+**Course:** CMPT 401 — Spectral Graph Theory and Optimization  
+**Showcase:** Westminster Student Showcase, May 2026  
+**Poster:** [research-poster.pdf](../research-poster.pdf)
 
 ## Reflective Summary
 
