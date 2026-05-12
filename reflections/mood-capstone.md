@@ -1,7 +1,7 @@
 # MōōD — Senior Capstone Project
 
-**Course:** CMPT 390 — Senior Capstone
-**Live site:** https://moodla.vercel.app
+**Course:** CMPT 390 — Senior Capstone  
+**Live site:** https://moodla.vercel.app  
 **Poster:** [mood-poster.pdf](../mood-poster.pdf)
 
 ## Demo
