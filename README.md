@@ -1,15 +1,22 @@
 # Lauren Morgenthaler
 
 Hi there 👋!  I’m a graduate of Westminster University with a B.S. in Computer Science and a minor in Mathematics.  
-I currently work as a Data Engineer and am interested in machine learning, AI, systems programming and building robust, scalable software.
+I currently work as a Data Engineer and I am most interested in the places where machine learning, systems programming, and product engineering meet — building software that is not only technically sound but actually useful to the people in front of it.
 
 ## 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/laurenmorgenthaler
 - Resume: [View Resume](lauren_morgenthaler_resume.pdf)
 
-## 💻 Selected Projects
-- **Visually Basic Compiler** – JVM-targeting compiler with semantic analysis and code generation
-- **Networks Chatroom** – Multi-client chat application with a custom binary protocol
+## 💻 Portfolio Projects
+
+| Project | Course | Link |
+|---|---|---|
+| **MōōD** — hyperlocal fashion boutique discovery platform | CMPT 390 (Senior Capstone) | [Live site](https://moodla.vercel.app) · [Poster](./mood-poster.pdf) · [Reflection](./reflections/mood-capstone.md) |
+| **Visually Basic Compiler** — JVM-targeting compiler with semantic analysis and code generation | CMPT 355 | [Repo](https://github.com/lmorgenthaler/visually-basic-compiler) · [Reflection](./reflections/visually-basic-compiler.md) |
+| **Networks Multi-Client Chatroom** — multi-client chat server with a custom binary KLV protocol | CMPT 352 | [Repo](https://github.com/lmorgenthaler/networks-chatroom) · [Reflection](./reflections/networks-chatroom.md) |
+| **Scalable Kernel SSL Research** — empirical validation of manifold-regularization scaling | MATH 401 | [Poster](./research-poster.pdf) · [Reflection](./reflections/ssl-research.md) |
+| **Fashion Recommendation Engine** — gradient-boosted scoring layer for MōōD ranking | CMPT 311 | [Repo](https://github.com/lmorgenthaler/mood-recommendation) · [Reflection](./reflections/recommendation-engine.md) |
+| **MathSprout** — Angular/Django web app teaching elementary math through minigames | CMPT 322 | [Repo](https://github.com/lmorgenthaler/mathsprout) · [Reflection](./reflections/mathsprout.md) |
 
 ## 🎓 Academic Portfolio Reflections
 As part of my Computer Science program at Westminster University, I have prepared summaries connecting selected projects to program and university-wide learning goals.
